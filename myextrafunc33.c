@@ -1,11 +1,11 @@
 #include "cust_shell.h"
 
 /**
- *cust_strspn - a function that calculates the length of the previous substring of a string
+ *cust_strspn - a func that calc the len of the initial substr of a str
  *@str1: first string
  *@str2: second string
  *
- *Return: number of bytes 
+ *Return: no of bytes 
  */
 
 int cust_strspn(char *str1, char *str2)
